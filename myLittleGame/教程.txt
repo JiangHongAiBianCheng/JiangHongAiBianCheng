@@ -1,0 +1,12 @@
+按上下左右箭头移动，蓝色正方形是主角，红色圆形前面带一个三角形的是敌人。
+主角拿到刀，再碰敌人就能赢。如果没拿到刀碰敌人的话就会死。存活60秒也能赢。
+敌人一开始会出生在屏幕的左上角，然后向随机方向移动，每3秒切换一次方向。
+刀每3秒都会随机移动到屏幕的各个地方。
+
+Press the up, down, left, and right arrow keys to move.
+The blue square is the main character, and the red circle with a triangle in front is the enemy.
+The main character can win by getting a knife and hitting the enemy.
+If the main character doesn't get a knife and hits the enemy, he will die.
+Surviving for 60 seconds can also win.
+The enemy will first appear in the upper left corner of the screen and move in a random direction, switching directions every 3 seconds.
+The knife will randomly move to various places on the screen every 3 seconds.
